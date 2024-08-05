@@ -27,8 +27,7 @@ You can access the live application at [https://real-time-chat-application-2fdn.
 
 ## Backend
 
-The backend of the application is built with NodeJS, Express and uses a MongoDb database. The source code for the backend can be found at [https://github.com/samar-gupta/Shop-Shizzle-Ecommerce-React-App](https://github.com/samar-gupta/Shop-Shizzle-Ecommerce-React-App).
-
+The backend of the application is built with NodeJS, Express and uses a MongoDb database. 
 
 
 ## Installation and Usage
